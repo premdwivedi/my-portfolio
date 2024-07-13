@@ -1,7 +1,6 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/premdwivedi/my-portfolio.git",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
